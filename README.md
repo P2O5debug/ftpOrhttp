@@ -50,7 +50,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[1] - 搜索并打开 iis管理器</code></strong></summary>
 
 ****
-<img src="photo/iis管理器搜索界面.png">
+<img src="photo/iis1.png">
 
 ****
 </details>
@@ -59,7 +59,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[2] - 在网站中添加 FTP站点，并设置名称和路径</code></strong></summary>
 
 ****
-<img src="photo/添加ftp站点1.png">
+<img src="photo/iis2.png">
 
 ****
 </details>
@@ -68,7 +68,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[3] - 选择 ip地址和端口，SSL设置无，这里 ip不一定都能用</code></strong></summary>
 
 ****
-<img src="photo/添加ftp站点2.png">
+<img src="photo/iis3.png">
 
 ****
 </details>
@@ -76,7 +76,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[4] - 权限放开，完成即可</code></strong></summary>
 
 ****
-<img src="photo/添加ftp站点3.png">
+<img src="photo/iis4.png">
 
 ****
 </details>
@@ -118,7 +118,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 搜索“启用或关闭 Windows功能”</code></strong></summary>
 
 ****
-<img src="photo/程序和功能.png">
+<img src="photo/开启1.png">
 
 ****
 </details>
@@ -126,7 +126,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[2] - 在 “Internet Information Services”中开启FTP服务器</code></strong></summary>
 
 ****
-<img src="photo/iis开启.png">
+<img src="photo/开启2.png">
 
 ****
 </details>
@@ -137,7 +137,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 搜索并打开“防火墙和网络保护” </code></strong></summary>
 
 ****
-<img src="photo/防火墙.png">
+<img src="photo/防火墙1.png">
 
 ****
 </details>
@@ -180,7 +180,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 我这里容易在C盘共享出现问题，D盘正常，将C盘的权限改为和D盘一样</code></strong></summary>
 
 ****
-<img src="photo/文件夹权限.png">
+<img src="photo/文件管理权限1.png">
 
 ****
 </details>
@@ -201,7 +201,7 @@ net 用户名 /delete            //删除本地用户
 
 > 添加进文件夹的权限中
 
-<img src="photo/文件夹权限.png">
+<img src="photo/文件管理权限1.png">
 
 ****
 </details>
@@ -242,7 +242,7 @@ WIFI属性中找到IPv4地址记录下来
 
 ****
 
-<img src="photo/everything浏览器访问.jpg">
+<img src="photo/everything的ftp.png">
 
 ****
 </details>
@@ -268,7 +268,7 @@ _此时服务端已经配置好了，不需要再弄什么防火墙或者权限�
 ```
 http://192.168.0.8:80
 ```
-<img src="photo/everything浏览器访问.jpg">
+<img src="photo/everything浏览器访问.png">
 
 ****
 </details>
@@ -317,7 +317,7 @@ python -m http.server 3000    //3000是端口
 ```
 http://192.198.0.5:3000
 ```
-<img src="photo/pythonhttp.jpg">
+<img src="photo/pythonhttp.png">
 
 ****
 </details>
