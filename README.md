@@ -6,7 +6,7 @@
 <summary><strong><code>[点击展开] - PC端示例</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\弹弹play服务启动.png">
+<img src="..\photo\弹弹play服务启动.png">
 </details>
 
 ****
@@ -14,10 +14,10 @@
 <summary><strong><code>[点击展开] - 手机端示例</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\弹弹play浏览器访问.png">
+<img src="..\photo\弹弹play浏览器访问.png">
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\弹弹play客户端访问.jpg">
+<img src="..\photo\弹弹play客户端访问.jpg">
 
 ****
 </details>
@@ -50,7 +50,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[1] - 搜索并打开 iis管理器</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\iis管理器搜索界面.png">
+<img src="..\photo\iis管理器搜索界面.png">
 
 ****
 </details>
@@ -59,7 +59,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[2] - 在网站中添加 FTP站点，并设置名称和路径</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\添加ftp站点1.png">
+<img src="..\photo\添加ftp站点1.png">
 
 ****
 </details>
@@ -68,7 +68,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[3] - 选择 ip地址和端口，SSL设置无，这里 ip不一定都能用</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\添加ftp站点2.png">
+<img src="..\photo\添加ftp站点2.png">
 
 ****
 </details>
@@ -76,7 +76,7 @@ _显然能够实现局域网共享的服务端与客户端不只一种。_
 <summary><strong><code>[4] - 权限放开，完成即可</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\添加ftp站点3.png">
+<img src="..\photo\添加ftp站点3.png">
 
 ****
 </details>
@@ -91,10 +91,10 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 打开文件管理器的 FTP添加功能，输入 ip地址和端口就行，账号密码服务端未设定</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\mix管理器.png">
+<img src="..\photo\mix管理器.png">
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\mt管理器.png">
+<img src="..\photo\mt管理器.png">
 
 ****
 </details>
@@ -102,10 +102,10 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[2] - 打开新添加的 ftp盘就可以愉快地使用了。相当于usb连接，传输速度和路由器等网络环境有关</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\mixftp.png">
+<img src="..\photo\mixftp.png">
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\mtftp.png">
+<img src="..\photo\mtftp.png">
 
 ****
 </details>
@@ -118,7 +118,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 搜索“启用或关闭 Windows功能”</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\程序和功能.png">
+<img src="..\photo\程序和功能.png">
 
 ****
 </details>
@@ -126,7 +126,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[2] - 在 “Internet Information Services”中开启FTP服务器</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\iis开启.png">
+<img src="..\photo\iis开启.png">
 
 ****
 </details>
@@ -137,7 +137,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 搜索并打开“防火墙和网络保护” </code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\防火墙.png">
+<img src="..\photo\防火墙.png">
 
 ****
 </details>
@@ -145,7 +145,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[2] - 在“允许应用通过防火墙”中开启 FTP服务器</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\防火墙2.png">
+<img src="..\photo\防火墙2.png">
 
 ****
 </details>
@@ -153,7 +153,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[3] - 搜索并打开防火墙</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\防火墙3.png">
+<img src="..\photo\防火墙3.png">
 
 ****
 </details>
@@ -161,7 +161,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[4] - 在“入站规则”中新建一个端口规则</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\防火墙4.png">
+<img src="..\photo\防火墙4.png">
 
 ****
 </details>
@@ -169,7 +169,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[5] - 添加需要通过的端口，例如“21,80”······</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\防火墙5.png">
+<img src="..\photo\防火墙5.png">
 
 ****
 </details>
@@ -180,7 +180,7 @@ _有些手机管理器并没有FTP功能，这里选用 **MT管理器**和 **mix
 <summary><strong><code>[1] - 我这里容易在C盘共享出现问题，D盘正常，将C盘的权限改为和D盘一样</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\文件夹权限.png">
+<img src="..\photo\文件夹权限.png">
 
 ****
 </details>
@@ -196,12 +196,12 @@ net 用户名 用户密码 /add       //添加本地用户
 
 net 用户名 /delete            //删除本地用户
 ```
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\cmd.png">
+<img src="..\photo\cmd.png">
 <br/>
 
 > 添加进文件夹的权限中
 
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\文件夹权限.png">
+<img src="..\photo\文件夹权限.png">
 
 ****
 </details>
@@ -242,7 +242,7 @@ WIFI属性中找到IPv4地址记录下来
 
 ****
 
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\everything浏览器访问.jpg">
+<img src="..\photo\everything浏览器访问.jpg">
 
 ****
 </details>
@@ -254,7 +254,7 @@ _此时服务端已经配置好了，不需要再弄什么防火墙或者权限�
 <summary><strong><code>[1] - 打开 everything,选择“工具”中的“选项”，输入本机的 ip地址，选择任意一个端口，点右下角应用即可，那个服务器页面什么的不会写就不用选了</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\everything的http.png">
+<img src="..\photo\everything的http.png">
 
 ****
 </details>
@@ -268,7 +268,7 @@ _此时服务端已经配置好了，不需要再弄什么防火墙或者权限�
 ```
 http://192.168.0.8:80
 ```
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\everything浏览器访问.jpg">
+<img src="..\photo\everything浏览器访问.jpg">
 
 ****
 </details>
@@ -317,7 +317,7 @@ python -m http.server 3000    //3000是端口
 ```
 http://192.198.0.5:3000
 ```
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\pythonhttp.jpg">
+<img src="..\photo\pythonhttp.jpg">
 
 ****
 </details>
@@ -332,7 +332,7 @@ http://192.198.0.5:3000
 <summary><strong><code>[1] - 手机开启“远程管理”</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\手机远程管理.png">
+<img src="..\photo\手机远程管理.png">
 
 ****
 </details>
@@ -340,7 +340,7 @@ http://192.198.0.5:3000
 <summary><strong><code>[2] - 在“资源管理器”中键入 FTP地址</code></strong></summary>
 
 ****
-<img src="C:\Users\我\Desktop\createFile\gitee\photo\pc远程管理.png">
+<img src="..\photo\pc远程管理.png">
 
 ****
 </details>
